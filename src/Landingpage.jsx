@@ -17,7 +17,7 @@ function Landing() {
             Leos, and where Leos gain access to the proven strategies of those
             who’ve successfully served the world for decades."
           </h1> <br />
-          <button className="bg-yellow-400 w-[20%] ml-[40%] mr-[40%] text-sm md:text-xl text-white hover:bg-yellow-300 active:bg-slate-100 active:text-yellow-300 px-4 py-2 rounded-full">
+          <button className="bg-yellonpw-400 w-[20%] ml-[40%] mr-[40%] text-sm md:text-xl text-white bg-yellow-400 hover:bg-yellow-300 active:bg-slate-100 active:text-yellow-300 px-4 py-2 rounded-full">
                     KNOW MORE
                 </button>
         </div>
