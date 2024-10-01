@@ -1,14 +1,15 @@
 import { useState } from 'react'
 import DropdownMenu from './Dropdown'
 import './App.css'
-import Navbar from './Navbar'
+import Landing from './Landingpage'
+
 
 function App() {
   
   return (
-    <>
-      <Navbar />
-    </>
+    <body>
+      <Landing />
+    </body>
   )
 }
 
