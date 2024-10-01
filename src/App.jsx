@@ -7,9 +7,9 @@ import Landing from './Landingpage'
 function App() {
   
   return (
-    <body>
+    <>
       <Landing />
-    </body>
+    </>
   )
 }
 
